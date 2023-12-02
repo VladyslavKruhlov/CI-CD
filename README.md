@@ -1,2 +1,2 @@
 # CI-CD
-HomeworkDev16
+HomeworkDev16CI/CD
